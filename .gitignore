@@ -5,3 +5,10 @@
 # libs
 *.a
 
+# Unknown files/folders
+a.out.dSYM/
+*.out*/
+
+# macOS media files
+.DS_Store
+
