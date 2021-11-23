@@ -1,0 +1,7 @@
+# binaries
+*.out
+*.o
+
+# libs
+*.a
+
