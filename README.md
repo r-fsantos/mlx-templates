@@ -8,7 +8,7 @@ This README is pretty straight-forward. To get more detail about `MiniLibX` core
 
 # Usage
 
-Initialize a connection between the sfotware and the display. This is done by calling `mlx` "constructor". If `mlx_init()` fails to set up the connection to the graphical system, it will return `NULL`,
+Initialize a connection between the software and the display. This is done by calling `mlx` "constructor". If `mlx_init()` fails to set up the connection to the graphical system, it will return `NULL`,
 otherwise a non-null pointer is returned as a connection identifier. To know:
 
 ```
